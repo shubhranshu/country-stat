@@ -1,0 +1,10 @@
+{
+  "name": "world-stat",
+  "version": "1.0.0",
+  "description": "Country by country world statistics",
+  "main": "src/index.js",
+  "repository": "git@github.com:shubhranshu/world-stat.git",
+  "author": "Shubhranshu <1248830+shubhranshu@users.noreply.github.com>",
+  "license": "MIT",
+  "private": false
+}
